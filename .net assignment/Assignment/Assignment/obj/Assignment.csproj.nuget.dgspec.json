@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj": {}
+    "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj": {
+    "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj",
         "projectName": "Assignment",
-        "projectPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj",
+        "projectPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Assignment.csproj",
         "packagesPath": "C:\\Users\\Mohtashim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\obj\\",
+        "outputPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohtashim\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,229 @@
+﻿@model IEnumerable<Assignment.Models.Item>
+<main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section light-background">
+
+        <div class="container">
+            <div class="row gy-4 justify-content-center justify-content-lg-between">
+                <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                    <h1 data-aos="fade-up">Enjoy Your Healthy<br>Delicious Food</h1>
+                    <p data-aos="fade-up" data-aos-delay="100">We are team of talented designers making websites with Bootstrap</p>
+                    <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
+                        <a href="#book-a-table" class="btn-get-started">Booka a Table</a>
+                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+                    </div>
+                </div>
+                <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
+                    <img src="~/assets/img/hero-img.png" class="img-fluid animated" alt="">
+                </div>
+            </div>
+        </div>
+
+    </section><!-- /Hero Section -->
+<!-- Menu Section -->
+<section id="menu" class="menu section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Our Menu</h2>
+        <p><span>Check Our</span> <span class="description-title">Yummy Menu</span></p>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
+
+            <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#menu-starters">
+                    <h4>Starters</h4>
+                </a>
+            </li><!-- End tab nav item -->
+
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-breakfast">
+                    <h4>Breakfast</h4>
+                </a><!-- End tab nav item -->
+
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-lunch">
+                    <h4>Lunch</h4>
+                </a>
+            </li><!-- End tab nav item -->
+
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-dinner">
+                    <h4>Dinner</h4>
+                </a>
+            </li><!-- End tab nav item -->
+
+        </ul>
+
+        <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="tab-pane fade active show" id="menu-starters">
+
+                <div class="tab-header text-center">
+                    <p>Menu</p>
+                    <h3>Starters</h3>
+
+                       
+                        
+                    <div class="row gy-5">
+                  
+
+@foreach (var item in Model) {
+
+
+
+                            <div class="col-lg-4 menu-item">
+
+                                <img src="@Html.DisplayFor(modelItem => item.Image)" class="menu-img img-fluid" alt="">
+                                <h4>@Html.DisplayFor(modelItem => item.Pname)</h4>
+                                <p class="ingredients">
+                                        @Html.DisplayFor(modelItem => item.Cat.CatName)
+
+                                </p>
+                                <p class="price">
+                                   Rs. @Html.DisplayFor(modelItem => item.Price)
+                                </p>
+
+
+                                <a href="#book-a-table" class="btn-getstarted"><i class="bi bi-cart"> Add To Cart</i></a>
+                                
+                            </div>
+                            
+                            <!-- Menu Item -->
+
+                           
+
+}
+
+                    </div>
+                </div>
+            </div>
+
+                <div class="tab-pane fade" id="menu-breakfast">
+
+                    <div class="tab-header text-center">
+                        <p>Menu</p>
+                        <h3>BreakFast</h3>
+
+
+
+                        <div class="row gy-5">
+
+
+                            @foreach (var item in Model)
+                            {
+
+
+
+                                <div class="col-lg-4 menu-item">
+
+                                    <img src="@Html.DisplayFor(modelItem => item.Image)" class="menu-img img-fluid" alt="">
+                                    <h4>@Html.DisplayFor(modelItem => item.Pname)</h4>
+                                    <p class="ingredients">
+                                        @Html.DisplayFor(modelItem => item.Cat.CatName)
+
+                                    </p>
+                                    <p class="price">
+                                        Rs. @Html.DisplayFor(modelItem => item.Price)
+                                    </p>
+
+
+                                    <a href="#book-a-table" class="btn-getstarted"><i class="bi bi-cart"> Add To Cart</i></a>
+
+                                </div>
+
+                                <!-- Menu Item -->
+                            }
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane fade" id="menu-lunch">
+
+                    <div class="tab-header text-center">
+                        <p>Menu</p>
+                        <h3>Lunch</h3>
+
+
+
+                        <div class="row gy-5">
+
+
+                            @foreach (var item in Model)
+                            {
+
+
+
+                                <div class="col-lg-4 menu-item">
+
+                                    <img src="@Html.DisplayFor(modelItem => item.Image)" class="menu-img img-fluid" alt="">
+                                    <h4>@Html.DisplayFor(modelItem => item.Pname)</h4>
+                                    <p class="ingredients">
+                                        @Html.DisplayFor(modelItem => item.Cat.CatName)
+
+                                    </p>
+                                    <p class="price">
+                                        Rs. @Html.DisplayFor(modelItem => item.Price)
+                                    </p>
+
+
+                                    <a href="#book-a-table" class="btn-getstarted"><i class="bi bi-cart"> Add To Cart</i></a>
+
+                                </div>
+
+                                <!-- Menu Item -->
+                            }
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane fade" id="menu-dinner">
+
+                    <div class="tab-header text-center">
+                        <p>Menu</p>
+                        <h3>Dinner</h3>
+
+
+
+                        <div class="row gy-5">
+
+
+                            @foreach (var item in Model)
+                            {
+
+
+
+                                <div class="col-lg-4 menu-item">
+
+                                    <img src="@Html.DisplayFor(modelItem => item.Image)" class="menu-img img-fluid" alt="">
+                                    <h4>@Html.DisplayFor(modelItem => item.Pname)</h4>
+                                    <p class="ingredients">
+                                        @Html.DisplayFor(modelItem => item.Cat.CatName)
+
+                                    </p>
+                                    <p class="price">
+                                        Rs. @Html.DisplayFor(modelItem => item.Price)
+                                    </p>
+
+
+                                    <a href="#book-a-table" class="btn-getstarted"><i class="bi bi-cart"> Add To Cart</i></a>
+
+                                </div>
+
+                                <!-- Menu Item -->
+                            }
+
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.netassignment\\.net assignment\\assignment\\assignment\\views\\home\\chefs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\chefs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T16:43:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Gallery.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Gallery.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T16:42:27.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chefs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Chefs.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Chefs.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Chefs.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Chefs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T16:41:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Events.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Events.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Events.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCMAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T16:40:41.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T11:59:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUCAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T16:35:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAABQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:47:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.netAssignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwEAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:57:09.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

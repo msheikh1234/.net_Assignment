@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAABYBAAAAAAAAAAAiwCYBAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T20:48:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Contact.cshtml",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Gallery.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Gallery.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Gallery.cshtml",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Chefs.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Chefs.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Chefs.cshtml",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Events.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Events.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Events.cshtml",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Product.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Product.cshtml",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Index.cshtml",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
@@ -130,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADEAAAAAAAAAAAAiwEAAAABPAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwEAAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T15:57:09.921Z",
               "EditorCaption": ""

@@ -2673,6 +2673,30 @@
       "PackagePath": "staticwebassets\\uploads\\245130075111515f94dbc9a763f807615802a994f5b0.jpg"
     },
     {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245504015513cabage.webp",
+      "PackagePath": "staticwebassets\\uploads\\245504015513cabage.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245504015519cabage.webp",
+      "PackagePath": "staticwebassets\\uploads\\245504015519cabage.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245604015622cabage.webp",
+      "PackagePath": "staticwebassets\\uploads\\245604015622cabage.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245704015708basket.avif",
+      "PackagePath": "staticwebassets\\uploads\\245704015708basket.avif"
+    },
+    {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245704015725basket.avif",
+      "PackagePath": "staticwebassets\\uploads\\245704015725basket.avif"
+    },
+    {
+      "Id": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\wwwroot\\uploads\\245904015959basket.png",
+      "PackagePath": "staticwebassets\\uploads\\245904015959basket.png"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

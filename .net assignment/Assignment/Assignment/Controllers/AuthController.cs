@@ -1,6 +1,8 @@
-﻿using Azure;
+﻿using Assignment.Models;
+using Azure;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using NuGet.Protocol;
 using System.Security.Claims;
@@ -10,6 +12,36 @@ namespace Assignment.Controllers
 {
     public class AuthController : Controller
     {
+        private readonly AssignmentdotnetContext db;
+        public AuthController( AssignmentdotnetContext _db)
+        {
+            db = _db;
+        }
+        public IActionResult Signup()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Signup(User user)
+        {
+            var checkUser = db.Users.FirstOrDefault(u => u.Email == user.Email);
+            if(checkUser == null)
+            {
+                var hasher = new PasswordHasher<string>();
+                var hashpassword = hasher.HashPassword(user.Email, user.Password);
+                user.Password = hashpassword;
+                db.Users.Add(user);
+                db.SaveChanges();
+                return RedirectToAction("Login");
+
+            }
+            else
+            {
+                ViewBag.msg = "User already registered. Please Login.";
+            return View();
+            }
+        }
+
         public IActionResult Login()
         {
             return View();

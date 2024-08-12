@@ -19,7 +19,7 @@ public partial class AssignmentdotnetContext : DbContext
 
     public virtual DbSet<Item> Items { get; set; }
 
-    
+    public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
@@ -52,7 +52,22 @@ public partial class AssignmentdotnetContext : DbContext
                 .HasConstraintName("FK_Items_ToTable");
         });
 
-       
+        modelBuilder.Entity<User>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC07F84A1C4F");
+
+            entity.Property(e => e.Email)
+                .HasMaxLength(100)
+                .HasColumnName("email");
+            entity.Property(e => e.Password).HasColumnName("password");
+            entity.Property(e => e.RoleId)
+                .HasDefaultValueSql("((2))")
+                .HasColumnName("roleId");
+            entity.Property(e => e.Status).HasColumnName("status");
+            entity.Property(e => e.Username)
+                .HasMaxLength(50)
+                .HasColumnName("username");
+        });
 
         OnModelCreatingPartial(modelBuilder);
     }

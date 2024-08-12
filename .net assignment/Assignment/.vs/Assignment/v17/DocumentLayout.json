@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EBED936-8457-47E3-999D-CE98BCF4921E}|Assignment\\Assignment.csproj|c:\\users\\mohtashim\\onedrive\\desktop\\.net_assignment\\.net assignment\\assignment\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Auth\\Login.cshtml",
               "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "Assignment\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAkwF8AAABrAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-12T07:36:40.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Views\\Auth\\Signup.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Auth\\Signup.cshtml",
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Assignment\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Mohtashim\\OneDrive\\Desktop\\.net_Assignment\\.net assignment\\Assignment\\Assignment\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Assignment\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowB8AAAAtAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwB8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T06:34:37.291Z",
               "EditorCaption": ""
